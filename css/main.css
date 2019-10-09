@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #fff;
+  background-color: #dbd6cf;
 }
 
 *, *::before, *::after {
@@ -8,17 +8,24 @@ html {
 }
 
 body {
+  border: 3px solid #595652;
   background-color: #79756f;
+
 }
 
 .plants h1 {
+  font-family: 'Bevan', cursive;
   color: #fff;
 }
 
 a {
-
+  color: #fff;
+  font-family: 'PT Sans', sans-serif;
+  line-height: 1.5;
+  margin: .3em;
+  background-color: #713837;
 }
 
 a:hover {
-
+color: #f33;
 }
