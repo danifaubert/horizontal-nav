@@ -14,7 +14,8 @@ body {
 }
 
 h1 {
-  font-family: Bevan,monospace;
+  font-family: "Open Sans", sans-serif;
+  font-family: Bevan, cursive;
   text-align: center;
   color: #fff;
   margin: -.1em;
