@@ -1,8 +1,19 @@
 html {
-  background-color: #dbd6cf;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 .plants h1 {
   color: #fff
 }
-inline-block
+
+a {
+
+}
+
+a:hover {
+
+}
