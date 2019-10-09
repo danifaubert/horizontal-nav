@@ -8,22 +8,27 @@ html {
 }
 
 body {
+  margin: .5em .75em;
   border: 3px solid #595652;
   background-color: #79756f;
-  margin: .3em;
 }
 
-.planets h1 {
-  font-family: "Bevan", cursive;
+h1 {
+  font-family: Bevan, cursive;
+  text-align: center;
   color: #fff;
 }
 
 a {
+  text-align: center;
+  display: inline-block;
+  border-radius: 10px;
   color: #fff;
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
-  margin: .3em;
   background-color: #713837;
+  padding: .5em .75em;
+  list-style-type: none;
 }
 
 a:hover {
